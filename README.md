@@ -1,12 +1,13 @@
 
-# Guide Kubernetes 
-<img alt="GitHub Version" src="https://img.shields.io/badge/Version-0.9-blue">
-<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jaden37/kubernetes-guide?style=social">
+# Guide Kubernetes
+<div>
+  <img alt="GitHub Version" src="https://img.shields.io/badge/Version-0.9-blue">
+  <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jaden37/kubernetes-guide?style=social">
+</div>
 
-<br>
-<center>
-<img src="kuber_logo.png" alt="drawing" width="200"/>
-</center>
+<div style="text-align:center">
+  <img src="kuber_logo.png" alt="drawing" width="200"/>
+</div>
 
 # 1. Installation et Configuration de Kubernetes
 
